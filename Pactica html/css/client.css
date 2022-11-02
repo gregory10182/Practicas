@@ -1,0 +1,131 @@
+body{
+    background-color: #d9b592;
+}
+
+/* topnav */
+
+header {
+    display: flex;
+    margin-top: -10px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h2{
+     color: black;
+}
+
+.Menu {
+    display: flex;
+    width: 30%;
+    justify-content: space-evenly;
+
+}
+
+.Menu a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+
+.Menu a:hover{
+    color: white;
+    box-shadow: 0px 10px 20px -11px rgba(255,226,196,0.5);
+}
+
+.Menu .Login{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: #96badf;
+    border: 2px #b9ddff solid;
+    border-radius: 5px;
+}
+
+.Menu .Esta{
+    text-decoration: none;
+    color: #8C6E50;
+    padding: 10px;
+}
+
+.Menu .Esta:hover{
+    color: #8C6E50;
+    box-shadow: none;
+}
+
+
+.img{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img img{
+    height: 400px;
+    width: 400px;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+/* Menu de pasteles */
+.Carta table {
+    border-collapse: collapse;
+}
+
+.Carta table td{
+    padding: 5px;
+}
+
+.Carta table tr:nth-child(even) {
+    background-color: #FFE2C4;
+}
+
+.Carta table .resalta:hover{
+    background-color: #8C6E50;
+    color: white;
+}
+
+.Carta table th{
+    padding: 8px;
+    border-bottom: 5px #8C6E50 solid;
+}
+
+
+/* Arma tu pastel */
+
+form{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+form select{
+    display: block;
+    border: 2px #8C6E50 solid;
+    border-radius: 5px;
+    margin: 7px;
+    padding: 0px 5px;
+    height: 30px;
+    width: 200px;
+    background-color: #FFE2C4;
+}
+
+form input{
+    display: block;
+    border: 2px #8C6E50 solid;
+    border-radius: 7px;
+    margin: 5px;
+    padding: 0px 5px;
+    height: 30px;
+    width: 200px;
+    background-color: #FFE2C4;
+}
