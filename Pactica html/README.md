@@ -12,4 +12,4 @@ Esta es mi desarrollo de la practica de html.
 * Despliegue
 
 # Pagina
-La pagina la pueden ver [Aqui](gregory10182.github.io)
+La pagina la pueden ver [Aqui](https://gregory10182.github.io/)
