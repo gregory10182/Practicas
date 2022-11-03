@@ -10,4 +10,4 @@ Esta es mi desarrollo de la practica de CSS.
 * Despligue
 
 # Pagina
-La pagina la pueden ver [Aqui](practica-css.epizy.com/covid.html)
+La pagina la pueden ver [Aqui](http://practica-css.epizy.com/covid.html?i=1)

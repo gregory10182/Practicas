@@ -11,4 +11,4 @@ Esta es mi desarrollo de la practica de JS.
 * Responsive - se puede ver en el celular
 
 # Pagina
-La pagina la pueden ver [Aqui](practica-js.epizy.com/index.html)
+La pagina la pueden ver [Aqui](http://practica-js.epizy.com/index.html)
