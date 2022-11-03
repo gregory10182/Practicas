@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/Style.css">
     
-    <title>Document</title>
+    <title>Pokedex</title>
 </head>
 <body>
     <div class="Background">
@@ -15,41 +15,46 @@
                 <input class="nombre" id="nombre" name="nombre" type="text">
                 <button onclick="fetchPokemon()" class="btn"></button>
             </div>
-            <div class="marco">
-                <div class="marcoI">
-                    <img id="pokeImg" src="./img/pokedex.png" alt="">
+            <div class="medio">
+                <div class="marco">
+                    <div class="marcoI">
+                        <img id="pokeImg" src="./img/pokedex.png" alt="">
+                    </div>
                 </div>
             </div>
-            <div class="stats">
-                <p>Tipo: </p>
-                <p id="tipo"></p>
-                <br>
-                <p>Movimientos: </p>
-                <p id="movimientos"></p>
-                <br>
-                <br>
-                <table>
-                    <thead>
-                        <th>HP</th>
-                        <th>ATK</th>
-                        <th>DEF</th>
-                        <th>SP ATK</th>
-                        <th>SP DEF</th>
-                        <th>SPEED</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td id="HP">0</td>
-                            <td id="ATK">0</td>
-                            <td id="DEF">0</td>
-                            <td id="SPATK">0</td>
-                            <td id="SPDEF">0</td>
-                            <td id="SPEED">0</td>
-                        </tr>
-                    </tbody>
-                </table>
-
+            <div class="abajo">
+                <div class="stats">
+                    <p>Tipo: </p>
+                    <p id="tipo"></p>
+                    <br>
+                    <p>Movimientos: </p>
+                    <p id="movimientos"></p>
+                    <br>
+                    <br>
+                    <table>
+                        <thead>
+                            <th>HP</th>
+                            <th>ATK</th>
+                            <th>DEF</th>
+                            <th>SP ATK</th>
+                            <th>SP DEF</th>
+                            <th>SPEED</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td id="HP">0</td>
+                                <td id="ATK">0</td>
+                                <td id="DEF">0</td>
+                                <td id="SPATK">0</td>
+                                <td id="SPDEF">0</td>
+                                <td id="SPEED">0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+    
+                </div>
             </div>
+            
         </div>
     </div>
 </body>

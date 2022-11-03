@@ -8,6 +8,7 @@ Esta es mi desarrollo de la practica de html.
 
 # Bonuses
 * Despliegue
+* Responsive - se puede ver en el celular
 
 # Pagina
 La pagina la pueden ver [Aqui](practica-js.epizy.com/index.html)
