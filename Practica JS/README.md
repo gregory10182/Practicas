@@ -1,5 +1,5 @@
-# Practica HTML
-Esta es mi desarrollo de la practica de html.
+# Practica JS
+Esta es mi desarrollo de la practica de JS.
 
 # Herramientas
 * Visual Studio Code - Escribir el codigo necesario de la pagina web
