@@ -1,6 +1,5 @@
 # Practica CSS
-Esta es mi desarrollo de la practica de CSS.
-La punto de referencia para esta practica lo pueden ver haciendo click [AQUI](https://github.com/gregory10182/Practicas-Mision-FrontEnd-LaunchX/blob/main/Practica%20css/landingVacunaci%C3%B3n.png)
+La imagen de referencia para esta practica lo pueden ver haciendo click [AQUI](https://github.com/gregory10182/Practicas-Mision-FrontEnd-LaunchX/blob/main/Practica%20css/landingVacunaci%C3%B3n.png)
 
 # Herramientas
 * Visual Studio Code - Escribir el codigo necesario de la pagina web
